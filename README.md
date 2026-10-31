@@ -112,7 +112,7 @@ learning:    [AI safety and control for coding agents, Rust]
 | <img src="https://img.shields.io/badge/AI%20in%20product-ec4899?style=flat-square" alt="AI in product" /> | LLM text simplification and a voice assistant in a production accessibility widget; AI-assisted KYC demo |
 | <img src="https://img.shields.io/badge/Guard--rails-22c55e?style=flat-square" alt="Guard--rails" /> | Human approval before irreversible actions, audit logs, every output traceable to a source |
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Af97316%2C100%3Aec4899&height=100&section=header&text=%F0%9F%9A%80++GarvSe+2.0+%C2%B7+the+production+system+I+build+every+day&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🚀 GarvSe 2.0 — the production system I build every day" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Af97316%2C100%3Aec4899&height=100&section=header&text=%F0%9F%9A%80++GarvSe+2.0+%C2%B7+what+I+ship+every+day&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🚀 GarvSe 2.0 — the production system I build every day" width="100%" />
 
 
 <div align="center">
