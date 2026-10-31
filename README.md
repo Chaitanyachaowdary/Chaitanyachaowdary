@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI-native%20full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&fontAlignY=38&descAlignY=58" alt="Chaitanya Yelamasetty, AI-native full-stack engineer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=twinkling&desc=AI-native%20full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&fontAlignY=38&descAlignY=58" alt="Chaitanya Yelamasetty, AI-native full-stack engineer" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=860&height=45&lines=%3E+building+AI+agent+products%3A+DevOps+%7C+security+%7C+audits+%7C+job+search;%3E+shipping+production+software+with+AI+agents%2C+every+day;%3E+offline-first%2C+accessible+apps+used+by+blind+field+officers;%3E+open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
 
@@ -42,9 +42,8 @@ learning:    [AI safety and control for coding agents, Rust]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A7c3aed%2C100%3A2563eb&height=100&section=header&text=%F0%9F%A7%8A++A+year+of+commits%2C+in+3D&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🧊 A year of commits, in 3D" width="100%" />
 
-## 🧊 A year of commits, in 3D
 
 <div align="center">
   <picture>
@@ -57,6 +56,10 @@ learning:    [AI safety and control for coding agents, Rust]
 <sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="The same year as animated 3D blocks" width="100%" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanyachaowdary/Chaitanyachaowdary/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitanyachaowdary/Chaitanyachaowdary/output/github-contribution-grid-snake-ocean.svg" />
@@ -64,9 +67,10 @@ learning:    [AI safety and control for coding agents, Rust]
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<div align="center"><img src="https://svg-banners.vercel.app/api?type=glitch&text1=AI%20agents%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20Audits&width=860&height=110" alt="AI agents, DevOps, Security, Audits" width="100%" /></div>
 
-## 🤖 AI agent products
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A4%96++AI+agent+products&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🤖 AI agent products" width="100%" />
+
 
 <table>
   <tr>
@@ -97,9 +101,8 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <sub>These repositories are private; happy to walk through any of them.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A06b6d4%2C100%3A22c55e&height=100&section=header&text=%E2%9A%A1++How+I+work+in+the+AI+era&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="⚡ How I work in the AI era" width="100%" />
 
-## ⚡ How I work in the AI era
 
 | | |
 |---|---|
@@ -109,9 +112,8 @@ learning:    [AI safety and control for coding agents, Rust]
 | <img src="https://img.shields.io/badge/AI%20in%20product-ec4899?style=flat-square" alt="AI in product" /> | LLM text simplification and a voice assistant in a production accessibility widget; AI-assisted KYC demo |
 | <img src="https://img.shields.io/badge/Guard--rails-22c55e?style=flat-square" alt="Guard--rails" /> | Human approval before irreversible actions, audit logs, every output traceable to a source |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Af97316%2C100%3Aec4899&height=100&section=header&text=%F0%9F%9A%80++GarvSe+2.0+%C2%B7+the+production+system+I+build+every+day&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🚀 GarvSe 2.0 — the production system I build every day" width="100%" />
 
-## 🚀 GarvSe 2.0 — the production system I build every day
 
 <div align="center">
 <img src="https://img.shields.io/badge/React%2019-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
@@ -132,9 +134,8 @@ learning:    [AI safety and control for coding agents, Rust]
 - <img src="https://img.shields.io/badge/Incidents%20owned-f59e0b?style=flat-square" alt="Incidents owned" /> a 21-minute outage, Postgres JIT slow pages, a 3-day email outage, all root-caused and fixed
 - <img src="https://img.shields.io/badge/Where-7c3aed?style=flat-square" alt="Where" /> Built at CodeSage India, deployed to EnableIndia; code lives in a private organisation
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A22c55e%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A7%A9++Open+projects&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🧩 Open projects" width="100%" />
 
-## 🧩 Open projects
 
 | | Project | What it does |
 |---|---|---|
@@ -145,12 +146,13 @@ learning:    [AI safety and control for coding agents, Rust]
 | 🎓 | [**EnableU**](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly type, AA contrast, keyboard-only navigation<br/><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> |
 | ❓ | [**easyq-qa-service**](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered Q&A backend<br/><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Aec4899%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%9B%A0%EF%B8%8F++Stack&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🛠️ Stack" width="100%" />
 
-## 🛠️ Stack
 
 <div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&pause=900&color=22C55E&center=true&vCenter=true&width=860&height=38&lines=TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+19+%E2%80%A2+PostgreSQL+17;Tauri+%E2%80%A2+SQLite+offline+sync+%E2%80%A2+Redis+%2B+BullMQ;Python+%E2%80%A2+Playwright+%E2%80%A2+Ollama+%E2%80%A2+Claude+Code;Docker+%E2%80%A2+AWS+%E2%80%A2+GitHub+Actions+%E2%80%A2+Cloudflare" alt="Stack, typed out" /></a>
+<br/><br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,postgres&theme=dark" alt="TypeScript, JavaScript, Python, Java, Kotlin, PostgreSQL" /></a>
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,vite,tailwind,redis,sqlite,tauri,rust,spring,fastapi&theme=dark" alt="Node.js, NestJS, Express, React, Next.js, Vite, Tailwind, Redis, SQLite, Tauri, Rust, Spring, FastAPI" /></a>
@@ -161,14 +163,19 @@ learning:    [AI safety and control for coding agents, Rust]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=4&section=header" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%93%88++Activity&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="📈 Activity" width="100%" />
 
-## 📈 Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanyachaowdary&theme=github_dark" alt="Profile details: contributions over the last year" width="100%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaitanyachaowdary&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chaitanyachaowdary&theme=github_dark&utcOffset=5.5" alt="Commits by hour of day, IST" width="49%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanyachaowdary&theme=github_dark" alt="Most committed languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanyachaowdary&theme=github_dark" alt="Repositories per language" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,30:06b6d4,65:2563eb,100:7c3aed&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,30:06b6d4,65:2563eb,100:7c3aed&height=120&section=footer&animation=twinkling" alt="" width="100%" />
 </div>
