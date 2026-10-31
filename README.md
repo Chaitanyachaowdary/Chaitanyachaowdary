@@ -54,6 +54,14 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanyachaowdary/Chaitanyachaowdary/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitanyachaowdary/Chaitanyachaowdary/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Chaitanyachaowdary/Chaitanyachaowdary/output/github-contribution-grid-snake.svg" alt="Snake animation eating this year's contribution squares" width="100%" />
+  </picture>
+</div>
+
 ## 🤖 AI agent products
 
 <table>
