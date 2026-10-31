@@ -55,13 +55,6 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img src="./profile-3d-contrib/profile-gitblock.svg" alt="The same year as 3D blocks (light) or a night-view city (dark)" width="100%" />
-  </picture>
-</div>
 
 <div align="center">
   <picture>
@@ -175,9 +168,6 @@ learning:    [AI safety and control for coding agents, Rust]
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chaitanyachaowdary&theme=github_dark" alt="Stats" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chaitanyachaowdary&theme=github_dark&utcOffset=5.5" alt="Commits by hour of day, IST" width="49%" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaitanyachaowdary&theme=github_dark" alt="Most committed languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanyachaowdary&theme=github_dark" alt="Repositories per language" width="49%" />
 </div>
 
 <div align="center">
