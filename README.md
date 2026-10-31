@@ -24,6 +24,18 @@
 - 🌱 **Learning:** AI safety and control for coding agents; Rust through Tauri
 - 💬 **Open to:** full-stack, backend, platform or AI-engineering roles in Bengaluru, Hyderabad or remote
 
+## 🧊 A year of commits, in 3D
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar for the last twelve months" width="100%" />
+  </picture>
+</div>
+
+<sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
+
 ## 🤖 How I work in the AI era
 
 | What | How I do it |
