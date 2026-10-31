@@ -167,8 +167,6 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanyachaowdary&theme=github_dark" alt="Profile details: contributions over the last year" width="100%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Chaitanyachaowdary&theme=github-dark-blue&hide_border=true" alt="Contribution streak" height="165" />
 </div>
 
 <div align="center">
