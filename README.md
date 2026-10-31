@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI-native%20full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&fontAlignY=38&descAlignY=58" alt="Chaitanya Yelamasetty, AI-native full-stack engineer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&height=45&lines=Building+AI+agent+products%3A+DevOps%2C+security%2C+audits%2C+job+search;I+ship+production+software+with+AI+agents%2C+every+day;Offline-first%2C+accessible+apps+used+by+blind+field+officers;Open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&height=45&lines=%3E+building+AI+agent+products%3A+DevOps+%7C+security+%7C+audits+%7C+job+search;%3E+shipping+production+software+with+AI+agents%2C+every+day;%3E+offline-first%2C+accessible+apps+used+by+blind+field+officers;%3E+open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
 
 <p>
   <a href="https://chaitanya.veltore.co.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -14,15 +14,33 @@
 
 </div>
 
-## 👋 About me
+```yaml
+# $ whoami
+name:        Chaitanya Yelamasetty
+role:        Full-stack engineer · AI-native
+location:    Bengaluru, India · open to Hyderabad or remote
+experience:  2.8 years in production
+now:
+  - building GarvSe 2.0, an offline-first accessible platform used by field teams across India
+  - building AI agent products: DevOps + security agent, job-application agent, data-deletion audit agent
+how_i_work:
+  - Claude Code for implementation, refactors, audits and tests; the test suite and code review are the gate
+  - local models via Ollama wherever data must stay on the machine
+  - every agent stops for human approval before anything irreversible
+stack:       [TypeScript, Node.js, React, PostgreSQL, Tauri, Python, Docker, AWS]
+learning:    [AI safety and control for coding agents, Rust]
+```
 
-**Full-stack engineer building AI agent products (DevOps, audits, job search) and shipping offline-first, accessible software in TypeScript, Node.js, React and PostgreSQL.** 2.8 years in production work, Bengaluru, India.
+<div align="center">
 
-- 🔭 **Currently:** building **GarvSe 2.0**, a monitoring, evaluation and learning platform used by disability-inclusion field teams across India (CodeSage India, deployed to EnableIndia)
-- 🛠️ **Also building AI agent products:** a DevOps and security-architect agent (Kanna DevOps Agent) that reviews infrastructure and runs read-only diagnostics, a job-application agent, a data-deletion audit agent, and an HRMS with a local AI assistant; all local-model first, all with human approval before any irreversible action
-- 🤖 **How I work:** Claude Code for implementation, refactors, audits and tests, with the test suite and code review as the gate; local models through Ollama where data must stay on the machine
-- 🌱 **Learning:** AI safety and control for coding agents; Rust through Tauri
-- 💬 **Open to:** full-stack, backend, platform or AI-engineering roles in Bengaluru, Hyderabad or remote
+<img src="https://img.shields.io/badge/369-merged%20PRs-1d4ed8?style=flat-square&labelColor=0f172a" alt="369 merged pull requests" />
+<img src="https://img.shields.io/badge/83%20%2F%20158-DB%20migrations%20authored-1d4ed8?style=flat-square&labelColor=0f172a" alt="83 of 158 database migrations" />
+<img src="https://img.shields.io/badge/5%2C131-records%20migrated%2C%20zero%20errors-1d4ed8?style=flat-square&labelColor=0f172a" alt="5,131 records migrated with zero errors" />
+<img src="https://img.shields.io/badge/45%20centres-10%20states%20%2B%202%20UTs-1d4ed8?style=flat-square&labelColor=0f172a" alt="45 centres across 10 states and 2 union territories" />
+<img src="https://img.shields.io/badge/WCAG%202.2%20AA-NVDA%20%2B%20TalkBack%20verified-06b6d4?style=flat-square&labelColor=0f172a" alt="WCAG 2.2 AA, verified with NVDA and TalkBack" />
+<img src="https://img.shields.io/badge/6%2C300%2B-automated%20tests%20green-22c55e?style=flat-square&labelColor=0f172a" alt="6,300+ automated tests green" />
+
+</div>
 
 ## 🧊 A year of commits, in 3D
 
@@ -36,66 +54,92 @@
 
 <sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
 
-## 🤖 How I work in the AI era
+## 🤖 AI agent products
 
-| What | How I do it |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Kanna DevOps Agent</h3>
+      <p>DevOps mentor and security architect in one agent: reviews infrastructure, runs <b>read-only</b> diagnostics, secret scanning and posture reviews. Defence-in-depth by design.</p>
+      <img src="https://img.shields.io/badge/agents-0f172a?style=flat-square" alt="agents" /> <img src="https://img.shields.io/badge/read--only%20tooling-0f172a?style=flat-square" alt="read-only tooling" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 Job-apply Agent</h3>
+      <p>Finds roles, tailors a resume with a <b>local model</b>, fills applications from a fixed profile and <b>stops for human approval</b> before any submit. Review dashboard included.</p>
+      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Playwright-0f172a?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Ollama%20qwen3-0f172a?style=flat-square&logo=ollama&logoColor=white" alt="Ollama qwen3" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Ghost-data Audit Agent</h3>
+      <p>Evidence-grounded agent that proves whether personal data was <b>really</b> deleted. Orchestrated local agents, <b>99.2% step F1</b> on samples. HackerRank Orchestrate, Oct 2026.</p>
+      <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Ollama-0f172a?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Humara HRMS</h3>
+      <p>Multi-tenant, India-first HRMS with a <b>local AI assistant</b> in development.</p>
+      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
+    </td>
+  </tr>
+</table>
+
+<sub>These repositories are private; happy to walk through any of them.</sub>
+
+## ⚡ How I work in the AI era
+
+| | |
 |---|---|
-| **Agentic coding** | Claude Code is my primary implementation partner. I specify, it drafts, I review every diff, run the suites (2,100+ backend and 4,200+ frontend tests on my current project) and own what ships. |
-| **Audits at scale** | Used an agent to audit our sync, upload and access-control paths: 20 verified defects with file and line references, all fixed, tested and ticketed across two repositories in one day. |
-| **Local models** | Ollama (Qwen) for tooling that handles personal or client data, so nothing leaves the machine. |
-| **AI features in product** | Shipped LLM-backed text simplification and a voice assistant in a production accessibility widget, and an AI-assisted KYC demo. |
-| **Guard-rails** | Every agent I build stops for human review before any irreversible action, keeps an audit log and must trace each output back to a source. |
+| 🧠 **Agentic coding** | Claude Code drafts, I review every diff, run the suites (2,100+ backend, 4,200+ frontend tests) and own what ships |
+| 🔎 **Audits at scale** | One agent-driven audit of sync, upload and access-control paths: **20 verified defects**, all fixed, tested and ticketed in a day |
+| 🔒 **Local models** | Ollama (Qwen) for anything that touches personal or client data; nothing leaves the machine |
+| ✨ **AI in product** | LLM text simplification and a voice assistant in a production accessibility widget; AI-assisted KYC demo |
+| 🧯 **Guard-rails** | Human approval before irreversible actions, audit logs, every output traceable to a source |
 
-## 🚀 What I have built
+## 🚀 GarvSe 2.0 — the production system I build every day
 
-### GarvSe 2.0 / MEL platform
+<div align="center">
+<img src="https://img.shields.io/badge/React%2019-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js%20%2B%20Hono-0f172a?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js and Hono" />
+<img src="https://img.shields.io/badge/PostgreSQL%2017-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL 17" />
+<img src="https://img.shields.io/badge/Drizzle%20ORM-0f172a?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/Redis%20%2B%20BullMQ-0f172a?style=flat-square&logo=redis&logoColor=FF4438" alt="Redis and BullMQ" />
+<img src="https://img.shields.io/badge/Tauri-0f172a?style=flat-square&logo=tauri&logoColor=24C8DB" alt="Tauri" />
+<img src="https://img.shields.io/badge/SQLite%20offline%20sync-0f172a?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite offline sync" />
+<img src="https://img.shields.io/badge/AWS%20EC2%20%2B%20S3-0f172a?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS EC2 and S3" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+</div>
 
-Production system for 45 centres across 10 states and 2 union territories; many of its daily users are blind field officers.
+- 📱 **Offline-first** desktop, Android and iOS: local SQLite mirror + sync queue with idempotent replays, per-row failure handling, tombstones for server deletes
+- ♿ **Accessible by default:** WCAG 2.2 AA from the first sprint; many daily users are blind field officers
+- 🔁 **Zero-error migration** of 5,131 candidates from the legacy system, reconciled one by one
+- 🚑 **Incidents owned:** a 21-minute outage, Postgres JIT slow pages, a 3-day email outage, all root-caused and fixed
+- 🏢 Built at CodeSage India, deployed to EnableIndia; code lives in a private organisation
 
-- React 19 + TypeScript front end, Node.js (Hono) APIs on PostgreSQL 17 with Drizzle ORM, Redis and BullMQ jobs, S3 behind access-control middleware
-- Offline-first desktop, Android and iOS builds with Tauri: a local SQLite mirror and a sync queue that survives poor connectivity, with idempotent replays, per-row failure handling and tombstones for server-side deletes
-- WCAG 2.2 AA from the first sprint, verified with NVDA and TalkBack
-- 369 merged pull requests across 6 repositories, 83 of 158 database migrations, and the production migration of 5,131 candidates from the legacy system with counts reconciled one by one
-- CI/CD on GitHub Actions, Docker and Nginx on EC2, first Play Store and TestFlight releases, root-cause fixes for production incidents (a 21-minute outage, Postgres JIT slow pages, a 3-day email outage)
+## 🧩 Open projects
 
-That code lives in a private company organisation, so it is not on this profile. The projects below are my own.
-
-### AI agents and tools (private repositories, happy to walk through them)
-
-| Project | What it does | Stack |
+| | Project | What it does |
 |---|---|---|
-| **job-apply-agent** | Finds remote roles, tailors a resume with a local model, fills applications from a fixed profile and stops for human approval before any submit; outreach and a review dashboard | Python, Playwright, Ollama (qwen3) |
-| **ghost-data-audit-agent** | Evidence-grounded agent that proves whether personal data was really deleted; orchestrated local agents, 99.2% step F1 on samples (HackerRank Orchestrate, Oct 2026) | Python, Ollama |
-| **kanna-devops-agent** | Personal DevOps mentor and security-architect agent: reviews infrastructure, runs read-only diagnostics, secret scanning and posture reviews with a defence-in-depth model | Agents, read-only tooling |
-| **humara-hrms** | Multi-tenant, India-first HRMS with a local Ollama assistant in development | Next.js, NestJS, Prisma |
-
-### Open projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [SahajLoan](https://github.com/Chaitanyachaowdary/SahajLoan) | Accessible loan-application and KYC demo (WCAG 2.2 AA) with privacy-safe AI helpers; the model only ever sees a mismatch category, never a name. Razorpay × Replit Buildathon, Sep 2026 | JavaScript, AI APIs |
-| [Kanna](https://github.com/Chaitanyachaowdary/Kanna) | Native Android AI assistant: wake-word listening, Gemini-backed replies, encrypted Room history with the key in the Android keystore | Kotlin, Jetpack Compose |
-| [TINYLINK](https://github.com/Chaitanyachaowdary/TINYLINK) | URL shortener with a link dashboard and per-link stats, [live on Vercel](https://tinylink-phi.vercel.app) | Next.js, TypeScript, PostgreSQL, Tailwind |
-| [omnify-blog-fullstack](https://github.com/Chaitanyachaowdary/omnify-blog-fullstack) | Full-stack blog app with separate backend and frontend, [live on Vercel](https://omnify-blog-fullstack.vercel.app) | TypeScript, Node.js, React |
-| [EnableU](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly typography, AA contrast modes, full keyboard navigation, reduced motion | React, Node.js, Python (Flask) |
-| [easyq-qa-service](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered question and answer backend | Java, Spring Boot |
+| 💳 | [**SahajLoan**](https://github.com/Chaitanyachaowdary/SahajLoan) | Accessible loan + KYC demo; the model only ever sees a mismatch category, never a name. Razorpay × Replit Buildathon, Sep 2026 · `JS` `AI APIs` |
+| 🎙️ | [**Kanna**](https://github.com/Chaitanyachaowdary/Kanna) | Android AI assistant: wake-word, Gemini replies, encrypted Room history, key in the keystore · `Kotlin` `Compose` |
+| 🔗 | [**TINYLINK**](https://github.com/Chaitanyachaowdary/TINYLINK) | URL shortener with per-link stats · [live](https://tinylink-phi.vercel.app) · `Next.js` `TypeScript` `PostgreSQL` |
+| 📝 | [**omnify-blog-fullstack**](https://github.com/Chaitanyachaowdary/omnify-blog-fullstack) | Full-stack blog, separate backend and frontend · [live](https://omnify-blog-fullstack.vercel.app) · `TypeScript` `Node.js` `React` |
+| 🎓 | [**EnableU**](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly type, AA contrast, keyboard-only navigation · `React` `Node.js` `Flask` |
+| ❓ | [**easyq-qa-service**](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered Q&A backend · `Java` `Spring Boot` |
 
 ## 🛠️ Stack
 
 <div align="center">
 
-**Languages**<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,postgres&theme=dark" alt="TypeScript, JavaScript, Python, Java, Kotlin, PostgreSQL" /></a>
-
-**Backend and frontend**<br/>
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,vite,tailwind,redis,sqlite,tauri,rust,spring,fastapi&theme=dark" alt="Node.js, NestJS, Express, React, Next.js, Vite, Tailwind, Redis, SQLite, Tauri, Rust, Spring, FastAPI" /></a>
-
-**Infra, AI and tools**<br/>
+<br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,cloudflare,git,linux,androidstudio&theme=dark" alt="Docker, Nginx, AWS, GitHub Actions, Cloudflare, Git, Linux, Android Studio" /></a>
 
-</div>
+<sub>Also: Hono · Drizzle ORM · Zod · BullMQ · TanStack Router · shadcn/ui · Playwright · Vitest · Claude Code · Ollama · NVDA and TalkBack testing</sub>
 
-Also: Hono, Drizzle ORM, Zod, BullMQ, TanStack Router, shadcn/ui, Playwright, Vitest, Claude Code, Ollama, accessibility testing with NVDA and TalkBack.
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="" width="100%" />
