@@ -1,13 +1,28 @@
-# Hi, I'm Chaitanya Yelamasetty
+<div align="center">
 
-**Full-stack engineer building offline-first, accessible web and mobile products in TypeScript, Node.js, React and PostgreSQL.** Bengaluru, India. 2.8 years in production work.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&descAlignY=72" alt="Chaitanya Yelamasetty, full-stack engineer" width="100%" />
 
-- 🔭 **Currently:** building [GarvSe 2.0](#garvse-20--mel-platform), a monitoring, evaluation and learning platform used by disability-inclusion field teams across India (CodeSage India, deployed to EnableIndia)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+offline-first%2C+accessible+apps+for+field+teams;TypeScript+%7C+Node.js+%7C+React+%7C+PostgreSQL+%7C+Tauri;Open+to+full-stack+roles+in+Bengaluru%2C+Hyderabad+or+remote" alt="Typing banner: building offline-first, accessible apps for field teams" /></a>
+
+<p>
+  <a href="https://chaitanya.veltore.co.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chaitanya-yelamasetty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chaitanyachowdary4e3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20India-14b8a6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
+</p>
+
+</div>
+
+## 👋 About me
+
+**Full-stack engineer building offline-first, accessible web and mobile products in TypeScript, Node.js, React and PostgreSQL.** 2.8 years in production work, Bengaluru, India.
+
+- 🔭 **Currently:** building **GarvSe 2.0**, a monitoring, evaluation and learning platform used by disability-inclusion field teams across India (CodeSage India, deployed to EnableIndia)
 - 🤖 **Working style:** AI-assisted development every day (Claude Code, local models with Ollama), with the test suite and code review as the gate
 - 🌱 **Learning:** AI safety and control for coding agents; Rust through Tauri
 - 💬 **Open to:** full-stack, backend or platform roles in Bengaluru, Hyderabad or remote
 
-## What I have built
+## 🚀 What I have built
 
 ### GarvSe 2.0 / MEL platform
 
@@ -32,15 +47,32 @@ That code lives in a private company organisation, so it is not on this profile.
 | [easyq-qa-service](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered question and answer backend | Java, Spring Boot |
 | job-apply-agent (private) | Local-model agent that fills job applications from a fixed profile and stops for human review before any submit | Python, Playwright, Ollama |
 
-## Stack
+## 🛠️ Stack
 
-- **Languages:** TypeScript, JavaScript, Python, Java, SQL
-- **Backend:** Node.js (Hono, NestJS, Express), PostgreSQL, Drizzle ORM, Redis, BullMQ, REST APIs, Spring Boot
-- **Frontend and apps:** React 19, TanStack Router, Vite, Next.js, Tauri (desktop, Android, iOS), SQLite, accessibility (WCAG 2.2)
-- **Infra:** Docker, Nginx, AWS (EC2, S3, IAM), GitHub Actions, Cloudflare
+<div align="center">
 
-## Contact
+**Languages**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,postgres&theme=dark" alt="TypeScript, JavaScript, Python, Java, PostgreSQL" /></a>
 
-[Portfolio](https://chaitanya.veltore.co.in) · [LinkedIn](https://www.linkedin.com/in/chaitanya-yelamasetty) · chaitanyachowdary4e3@gmail.com
+**Backend and frontend**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,vite,tailwind,redis,sqlite,tauri,rust,spring&theme=dark" alt="Node.js, NestJS, Express, React, Next.js, Vite, Tailwind, Redis, SQLite, Tauri, Rust, Spring" /></a>
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanyachaowdary&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
+**Infra and tools**<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,cloudflare,git,linux,androidstudio&theme=dark" alt="Docker, Nginx, AWS, GitHub Actions, Cloudflare, Git, Linux, Android Studio" /></a>
+
+</div>
+
+Also: Hono, Drizzle ORM, BullMQ, TanStack Router, accessibility testing with NVDA and TalkBack.
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanyachaowdary&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyachaowdary&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&hide=html,css" alt="Top languages" height="165" />
+</div>
+
+<sub>Public-repo languages only; my production TypeScript work is in a private organisation.</sub>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="" width="100%" />
+</div>
