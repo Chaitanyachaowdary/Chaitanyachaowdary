@@ -42,7 +42,7 @@ learning:    [AI safety and control for coding agents, Rust]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A7c3aed%2C100%3A2563eb&height=100&section=header&text=%F0%9F%A7%8A++A+year+of+commits%2C+in+3D&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🧊 A year of commits, in 3D" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A7c3aed%2C100%3A2563eb&height=100&section=header&text=%F0%9F%A7%8A++A+year+of+commits%2C+in+3D&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🧊 A year of commits, in 3D" width="100%" />
 
 
 <div align="center">
@@ -67,9 +67,9 @@ learning:    [AI safety and control for coding agents, Rust]
   </picture>
 </div>
 
-<div align="center"><img src="https://svg-banners.vercel.app/api?type=glitch&text1=AI%20agents%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20Audits&width=860&height=110" alt="AI agents, DevOps, Security, Audits" width="100%" /></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=860&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+Kanna+DevOps+Agent;%F0%9F%A7%AD+Job-apply+Agent;%F0%9F%94%8D+Ghost-data+Audit+Agent;%F0%9F%8F%A2+Humara+HRMS+%2B+local+AI+assistant" alt="Kanna DevOps Agent, Job-apply Agent, Ghost-data Audit Agent, Humara HRMS" /></a></div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A4%96++AI+agent+products&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🤖 AI agent products" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A4%96++AI+agent+products&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🤖 AI agent products" width="100%" />
 
 
 <table>
@@ -101,7 +101,7 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <sub>These repositories are private; happy to walk through any of them.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A06b6d4%2C100%3A22c55e&height=100&section=header&text=%E2%9A%A1++How+I+work+in+the+AI+era&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="⚡ How I work in the AI era" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A06b6d4%2C100%3A22c55e&height=100&section=header&text=%E2%9A%A1++How+I+work+in+the+AI+era&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="⚡ How I work in the AI era" width="100%" />
 
 
 | | |
@@ -112,7 +112,7 @@ learning:    [AI safety and control for coding agents, Rust]
 | <img src="https://img.shields.io/badge/AI%20in%20product-ec4899?style=flat-square" alt="AI in product" /> | LLM text simplification and a voice assistant in a production accessibility widget; AI-assisted KYC demo |
 | <img src="https://img.shields.io/badge/Guard--rails-22c55e?style=flat-square" alt="Guard--rails" /> | Human approval before irreversible actions, audit logs, every output traceable to a source |
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Af97316%2C100%3Aec4899&height=100&section=header&text=%F0%9F%9A%80++GarvSe+2.0+%C2%B7+the+production+system+I+build+every+day&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🚀 GarvSe 2.0 — the production system I build every day" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Af97316%2C100%3Aec4899&height=100&section=header&text=%F0%9F%9A%80++GarvSe+2.0+%C2%B7+the+production+system+I+build+every+day&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🚀 GarvSe 2.0 — the production system I build every day" width="100%" />
 
 
 <div align="center">
@@ -134,7 +134,7 @@ learning:    [AI safety and control for coding agents, Rust]
 - <img src="https://img.shields.io/badge/Incidents%20owned-f59e0b?style=flat-square" alt="Incidents owned" /> a 21-minute outage, Postgres JIT slow pages, a 3-day email outage, all root-caused and fixed
 - <img src="https://img.shields.io/badge/Where-7c3aed?style=flat-square" alt="Where" /> Built at CodeSage India, deployed to EnableIndia; code lives in a private organisation
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A22c55e%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A7%A9++Open+projects&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🧩 Open projects" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A22c55e%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A7%A9++Open+projects&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🧩 Open projects" width="100%" />
 
 
 | | Project | What it does |
@@ -146,7 +146,7 @@ learning:    [AI safety and control for coding agents, Rust]
 | 🎓 | [**EnableU**](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly type, AA contrast, keyboard-only navigation<br/><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> |
 | ❓ | [**easyq-qa-service**](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered Q&A backend<br/><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> |
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Aec4899%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%9B%A0%EF%B8%8F++Stack&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="🛠️ Stack" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3Aec4899%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%9B%A0%EF%B8%8F++Stack&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🛠️ Stack" width="100%" />
 
 
 <div align="center">
@@ -163,7 +163,7 @@ learning:    [AI safety and control for coding agents, Rust]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%93%88++Activity&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=52" alt="📈 Activity" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A7c3aed&height=100&section=header&text=%F0%9F%93%88++Activity&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="📈 Activity" width="100%" />
 
 
 <div align="center">
