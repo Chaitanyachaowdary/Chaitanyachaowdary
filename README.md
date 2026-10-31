@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI-native%20full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&descAlignY=72" alt="Chaitanya Yelamasetty, AI-native full-stack engineer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=I+ship+production+software+with+AI+agents%2C+every+day;Offline-first%2C+accessible+apps+used+by+blind+field+officers;Local+LLM+agents%3A+job+applications%2C+data-deletion+audits%2C+DevOps;Open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+agent+products%3A+DevOps%2C+security%2C+audits%2C+job+search;I+ship+production+software+with+AI+agents%2C+every+day;Offline-first%2C+accessible+apps+used+by+blind+field+officers;Open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
 
 <p>
   <a href="https://chaitanya.veltore.co.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,11 +16,11 @@
 
 ## 👋 About me
 
-**Full-stack engineer who builds with AI agents as a daily tool and ships offline-first, accessible products in TypeScript, Node.js, React and PostgreSQL.** 2.8 years in production work, Bengaluru, India.
+**Full-stack engineer building AI agent products (DevOps, audits, job search) and shipping offline-first, accessible software in TypeScript, Node.js, React and PostgreSQL.** 2.8 years in production work, Bengaluru, India.
 
 - 🔭 **Currently:** building **GarvSe 2.0**, a monitoring, evaluation and learning platform used by disability-inclusion field teams across India (CodeSage India, deployed to EnableIndia)
+- 🛠️ **Also building AI agent products:** a DevOps and security-architect agent (Kanna DevOps Agent) that reviews infrastructure and runs read-only diagnostics, a job-application agent, a data-deletion audit agent, and an HRMS with a local AI assistant; all local-model first, all with human approval before any irreversible action
 - 🤖 **How I work:** Claude Code for implementation, refactors, audits and tests, with the test suite and code review as the gate; local models through Ollama where data must stay on the machine
-- 🧪 **Building on the side:** local-LLM agents for job applications, data-deletion audits and DevOps mentoring (details below)
 - 🌱 **Learning:** AI safety and control for coding agents; Rust through Tauri
 - 💬 **Open to:** full-stack, backend, platform or AI-engineering roles in Bengaluru, Hyderabad or remote
 
