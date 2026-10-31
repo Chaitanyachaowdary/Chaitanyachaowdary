@@ -123,7 +123,7 @@ learning:    [AI safety and control for coding agents, Rust]
 | 💳 | [**SahajLoan**](https://github.com/Chaitanyachaowdary/SahajLoan) | Accessible loan + KYC demo; the model only ever sees a mismatch category, never a name. Razorpay × Replit Buildathon, Sep 2026 · `JS` `AI APIs` |
 | 🎙️ | [**Kanna**](https://github.com/Chaitanyachaowdary/Kanna) | Android AI assistant: wake-word, Gemini replies, encrypted Room history, key in the keystore · `Kotlin` `Compose` |
 | 🔗 | [**TINYLINK**](https://github.com/Chaitanyachaowdary/TINYLINK) | URL shortener with per-link stats · [live](https://tinylink-phi.vercel.app) · `Next.js` `TypeScript` `PostgreSQL` |
-| 📝 | [**omnify-blog-fullstack**](https://github.com/Chaitanyachaowdary/omnify-blog-fullstack) | Full-stack blog, separate backend and frontend · [live](https://omnify-blog-fullstack.vercel.app) · `TypeScript` `Node.js` `React` |
+| 📝 | [**omnify-blog-fullstack**](https://github.com/Chaitanyachaowdary/omnify-blog-fullstack) | Full-stack blog: React + TypeScript frontend on a Java Spring Boot REST backend · [live](https://omnify-blog-fullstack.vercel.app) · `React` `TypeScript` `Spring Boot` |
 | 🎓 | [**EnableU**](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly type, AA contrast, keyboard-only navigation · `React` `Node.js` `Flask` |
 | ❓ | [**easyq-qa-service**](https://github.com/Chaitanyachaowdary/easyq-qa-service) | AI-powered Q&A backend · `Java` `Spring Boot` |
 
@@ -139,6 +139,14 @@ learning:    [AI safety and control for coding agents, Rust]
 
 <sub>Also: Hono · Drizzle ORM · Zod · BullMQ · TanStack Router · shadcn/ui · Playwright · Vitest · Claude Code · Ollama · NVDA and TalkBack testing</sub>
 
+</div>
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanyachaowdary&theme=github_dark" alt="Profile details: contributions over the last year" width="100%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Chaitanyachaowdary&theme=github-dark-blue&hide_border=true" alt="Contribution streak" height="165" />
 </div>
 
 <div align="center">
