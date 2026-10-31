@@ -56,7 +56,11 @@ learning:    [AI safety and control for coding agents, Rust]
 <sub>Regenerated nightly by a GitHub Action; private contributions are counted without exposing repository names.</sub>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="The same year as animated 3D blocks" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img src="./profile-3d-contrib/profile-gitblock.svg" alt="The same year as 3D blocks (light) or a night-view city (dark)" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
