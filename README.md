@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:2563eb,70:06b6d4,100:22c55e&height=200&section=header&text=Chaitanya%20Yelamasetty&fontSize=56&fontColor=ffffff&animation=twinkling&desc=AI-native%20full-stack%20engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL&descSize=20&fontAlignY=38&descAlignY=58" alt="Chaitanya Yelamasetty, AI-native full-stack engineer" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=860&height=45&lines=%3E+building+AI+agent+products%3A+DevOps+%7C+security+%7C+audits+%7C+job+search;%3E+shipping+production+software+with+AI+agents%2C+every+day;%3E+offline-first%2C+accessible+apps+used+by+blind+field+officers;%3E+open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=860&height=45&lines=%3E+building+AI+agent+products%3A+voice+%7C+DevOps+%7C+security+%7C+audits+%7C+job+search;%3E+shipping+production+software+with+AI+agents%2C+every+day;%3E+offline-first%2C+accessible+apps+used+by+blind+field+officers;%3E+open+to+full-stack+%2F+AI-engineering+roles%2C+Bengaluru+or+remote" alt="Typing banner" /></a>
 
 <p>
   <a href="https://chaitanya.veltore.co.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -22,7 +22,7 @@ location:    Bengaluru, India · open to Hyderabad or remote
 experience:  2.8 years in production
 now:
   - building GarvSe 2.0, an offline-first accessible platform used by field teams across India
-  - building AI agent products: DevOps + security agent, job-application agent, data-deletion audit agent
+  - building AI agent products: voice personal AI (EN/HI/TE), DevOps + security agent, job-application agent, data-deletion audit agent
 how_i_work:
   - Claude Code for implementation, refactors, audits and tests; the test suite and code review are the gate
   - local models via Ollama wherever data must stay on the machine
@@ -64,7 +64,7 @@ learning:    [AI safety and control for coding agents, Rust]
   </picture>
 </div>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=860&height=50&lines=%F0%9F%9B%A1%EF%B8%8F+Kanna+DevOps+Agent;%F0%9F%A7%AD+Job-apply+Agent;%F0%9F%94%8D+Ghost-data+Audit+Agent;%F0%9F%8F%A2+Humara+HRMS+%2B+local+AI+assistant" alt="Kanna DevOps Agent, Job-apply Agent, Ghost-data Audit Agent, Humara HRMS" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=860&height=50&lines=%F0%9F%8E%99%EF%B8%8F+Kanna+Voice+Agent+%28EN+%2F+HI+%2F+TE%29;%F0%9F%9B%A1%EF%B8%8F+Kanna+DevOps+Agent;%F0%9F%A7%AD+Job-apply+Agent;%F0%9F%94%8D+Ghost-data+Audit+Agent;%F0%9F%8F%A2+Humara+HRMS+%2B+local+AI+assistant" alt="Kanna DevOps Agent, Job-apply Agent, Ghost-data Audit Agent, Humara HRMS" /></a></div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3A2563eb%2C100%3A06b6d4&height=100&section=header&text=%F0%9F%A4%96++AI+agent+products&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=52" alt="🤖 AI agent products" width="100%" />
 
@@ -92,6 +92,13 @@ learning:    [AI safety and control for coding agents, Rust]
       <h3>🏢 Humara HRMS</h3>
       <p>Multi-tenant, India-first HRMS with a <b>local AI assistant</b> in development.</p>
       <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎙️ Kanna Voice Agent</h3>
+      <p>Self-hosted voice personal AI in <b>English, Hindi and Telugu</b>. Say "Kanna, …": it plans, confirms, acts and reports. Live web through <b>TinyFish</b> (search, fetch, cloud browser agent, datasets, monitors, deep research), laptop control with a screen-reading vision loop, and a spoken answer back. Wake word, speech, translation and memory all run locally. Built at the Swim with TinyFish hackathon, Bengaluru, Nov 2026.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Ollama%20qwen3--vl-f97316?style=flat-square&logo=ollama&logoColor=white" alt="Ollama qwen3-vl" /> <img src="https://img.shields.io/badge/TinyFish%20SDK-0ea5e9?style=flat-square" alt="TinyFish SDK" /> <img src="https://img.shields.io/badge/faster--whisper%20%2B%20Piper-22c55e?style=flat-square" alt="faster-whisper and Piper" /> <img src="https://img.shields.io/badge/IndicTrans2-ec4899?style=flat-square" alt="IndicTrans2" /> <img src="https://img.shields.io/badge/FastAPI%20PWA-059669?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI PWA" /> <img src="https://img.shields.io/badge/private-475569?style=flat-square" alt="private" />
     </td>
   </tr>
 </table>
@@ -137,7 +144,6 @@ learning:    [AI safety and control for coding agents, Rust]
 | | Project | What it does |
 |---|---|---|
 | 💳 | [**SahajLoan**](https://github.com/Chaitanyachaowdary/SahajLoan) | Accessible loan + KYC demo; the model only ever sees a mismatch category, never a name. Razorpay × Replit Buildathon, Sep 2026<br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/AI%20APIs-7c3aed?style=flat-square" alt="AI APIs" /> <img src="https://img.shields.io/badge/WCAG%202.2%20AA-ec4899?style=flat-square" alt="WCAG 2.2 AA" /> |
-| 🎙️ | [**Kanna**](https://github.com/Chaitanyachaowdary/Kanna) | Android AI assistant: wake-word, Gemini replies, encrypted Room history, key in the keystore<br/><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> |
 | 🔗 | [**TINYLINK**](https://github.com/Chaitanyachaowdary/TINYLINK) | URL shortener with per-link stats · [live](https://tinylink-phi.vercel.app)<br/><img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
 | 📝 | [**omnify-blog-fullstack**](https://github.com/Chaitanyachaowdary/omnify-blog-fullstack) | Full-stack blog: React + TypeScript frontend on a Java Spring Boot REST backend · [live](https://omnify-blog-fullstack.vercel.app)<br/><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> |
 | 🎓 | [**EnableU**](https://github.com/Chaitanyachaowdary/EnableU) | Accessibility-first learning platform: dyslexia-friendly type, AA contrast, keyboard-only navigation<br/><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> |
